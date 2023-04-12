@@ -5,6 +5,8 @@ topnav:
   title: About
 - url: /facilitate
   title: Facilitate
+- url: /courses
+  title: Learning Resources
 
 org:
     url: https://www.dokk1.dk/

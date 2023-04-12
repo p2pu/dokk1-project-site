@@ -1,11 +1,7 @@
 ---
 title: Facilitate
 welcome: |
-    (Partner name) is bringing learning circles to (city/country) in 2020! 
-
-    Learning circles are free, interest-driven study groups that are led by a facilitator. The facilitator does not have to be an expert in the subject, so with a little practice and training, anybody can facilitate.
-
-    If you’re interested in participating, explore the resources below and contact us to get involved!
+  These resources have been developed by Dokk1 for use in Danish-speaking libraries. If you can’t find what you’re looking for, you can [add new resources](https://learningcircles.p2pu.org/en/course/create/) yourself. If you’d like to volunteer to facilitate a learning circle, reach out to XXXXX.
 resources_title: Facilitator resources
 resources:
 - title: Courses for learning circles

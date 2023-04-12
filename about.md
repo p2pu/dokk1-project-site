@@ -1,17 +1,20 @@
 ---
 title: About
 about: |
-    Learning circles were started by Peer 2 Peer University (P2PU) and Chicago Public Library in 2015. Since then, this model of peer learning has spread to libraries and community centers across North America, East Africa, and Europe. This year, The Ministry of Magic is proud to partner with P2PU to bring learning circles to Hogwarts.
+    Learning circles for a sustainable future is a joint project between Dokk1 and Peer 2 Peer University, financed by the Danish Ministry of Culture. Together we are discovering new ways to learn from one another and improve our footprint in the world.
 faq_title: Frequently asked questions
 faq:
+- q: Why are you doing this work?
+  a: |
+        The United Nations Sustainable Development Goals (SDGs) is the global blueprint for building a better and more sustainable future for all, and yet much work remains to be done to achieve the goals. With a commitment to serving the public and providing access to information, public libraries are extremely well suited to advance the goals of the SDGs for people of all ages. We are developing resources, partnerships, and methodologies that allow libraries around the world to run creative and engaging peer-learning programs that bring us closer to one another, and to a sustainable future for all.
+
 - q: What is a learning circle?
   a: |
-        A learning circle is a group of people who meet to learn something together. Learning circles are:
-        - Open to the public
-        - Free for participants
-        - Recurring (generally between 6-8 times)
-        
-        Additionally, learning circles are led by a facilitator, rather than a teacher. This means that the person who is organizing your learning circle is not an expert in the subject that you are learning. They are there to help guide the group through the course and ensure that the meeting space is ready each week.
+        The learning circle methodology, as refined by Peer 2 Peer University, is rooted in equitable, community-based approaches to education. Learning circles combine the flexibility and access of informal education, with the scaffolded, peer nature of formal education. Not only are learning circles free to create and free to participate in, but they embody the very values of the SDG program: everybody is a teacher and a learner, education can lead to collective action, co-constructing a learning experience is itself a way to build knowledge and create the world that you want to live in. Learning circles fundamentally shift the balance of power in a group setting, away from teacher/student, first world/third world, and create authentic spaces for collaboration and participation. This model is an essential value to teach and co-construct SDGs.
+
+- q: How can I get involved?
+  a: |
+    If you would like to participate in a learning circle, view upcoming events on the homepage. If you would like to volunteer to lead a learning circle, you should review the expectations of facilitators and then reach out to XXX for more information. If you would like to bring this project to your own library or community center, reach out to XXXX.
 
 - q: What learning materials can be used in learning circles?
   a: |
@@ -24,24 +27,11 @@ faq:
 - q: Does it cost money to participate in a learning circle?
   a: No, learning circles are free to participate in.
 
-
 - q: Do I get any certificate at the end of the learning circle?
   a: P2PU is not a university and does not offer any accredited degree certificates. Some of the online courses that are used in learning circles have degree and/or certificates, but many of these are not free. If you would like a certificate demonstrating the completion of your learning circle, this is possible if you speak with your facilitator.
 
 - q: What is Peer 2 Peer University?
   a: P2PU is a 501c3 non-profit organization registered in California in the United States, with team members in the US, Canada, and South Africa. The mission of the organization is to create equitable, empowering, and liberating alternatives to mainstream higher education. The majority of funding for P2PU comes from philanthropic and public sources including Institute of Museum and Library Services, Open Society Foundations, Siegel Family Endowment, and Knight Foundation. P2PU also accepts donations and offers a variety of services to organizations that are looking to develop thriving nonformal education communities.
-
-- q: Who funds this project?
-  a: |
-    This project is supported by the European Union Erasmus+ program. “Learning circles in libraries is a 3-year project (2018-2021) led by Fundacja Rozwoju Społeczeństwa Informacyjnego in Poland, with additional partners in Germany (Stadtbibliothek Kőln), Romania (Fundatia Progress), Portugal (Biblioteca Lucio Craveiro da Silva), and Finland (Suomen eOppimiskeskus ry).
-
-    The aim of the project is to facilitate access to useful online learning resources for adults using the learning circle methodology developed by P2PU. Together we are:
-
-    - Conducting background research in 2018-19, including writing a white paper on adult learning and scanning for high quality online learning resources in each partner’s language.
-    - Translating and adapting the learning circle methodology and software in 2019-20.
-    - Training up to 25 learning circle organizers in 2020, who will lead facilitation workshops in each country.
-    - Running a series of facilitation training workshops 2021, leading to learning circles happening in libraries across each of the partner countries.
-
 
 - q: Can anybody start and facilitate a learning circle?
   a: |

@@ -18,7 +18,7 @@ render(
     searchSubject={'courses'}
     origin={origin}
     onSelectResult={handleSelectResult}
-    initialState={{languages:['en']}}
+    initialState={{languages:['da']}}
   >
     <SearchCourses/>
   </SearchProvider>,

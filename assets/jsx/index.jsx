@@ -65,7 +65,10 @@ class App extends React.Component {
         <div className={this.state.selectedLearningCircle?'d-none':''}>
           <SearchProvider
             origin="https://learningcircles.p2pu.org"
-            initialState={{team_id: 28}}
+            initialState={{
+              team_id: 28,
+              resultsTab: 1, // TODO - this updates the display, but it doesn't update the data fetched
+            }}
             searchSubject={'learningCircles'}
             locale="en"
             defaultImageUrl="/assets/img/p2pu-ogimg-default.jpg"
