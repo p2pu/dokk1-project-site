@@ -66,7 +66,8 @@ class App extends React.Component {
           <SearchProvider
             origin="https://learningcircles.p2pu.org"
             initialState={{
-              team_id: 28,
+              team_id: 45,
+              signup: 'closed',
               resultsTab: 1, // TODO - this updates the display, but it doesn't update the data fetched
             }}
             searchSubject={'learningCircles'}
