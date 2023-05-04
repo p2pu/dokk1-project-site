@@ -1,7 +1,7 @@
 ---
 title: About
 about: |
-    Learning circles for a sustainable future is a joint project between Dokk1 and Peer 2 Peer University, financed by the Danish Ministry of Culture. Together we are discovering new ways to learn from one another and improve our footprint in the world.
+    Learning circles for a sustainable future is a joint project between Dokk1 and Peer 2 Peer University, funded by a development grant from The Agency for Culture and Palaces. Together we are discovering new ways to learn from one another and improve our footprint in the world.
 faq_title: Frequently asked questions
 faq:
 - q: Why are you doing this work?
